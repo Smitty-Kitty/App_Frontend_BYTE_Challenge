@@ -17,7 +17,7 @@
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingBottom="10dp"
-        android:text="Who are you??"
+        android:text="Welcome To My New Project"
         android:textAlignment="center"
         android:textColor="@color/welcome_color"
         android:textSize="48sp"
