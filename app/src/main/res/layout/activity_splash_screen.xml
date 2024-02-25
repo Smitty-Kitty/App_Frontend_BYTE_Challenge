@@ -9,15 +9,15 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="362dp"
-        android:layout_height="272dp"
+        android:layout_width="355dp"
+        android:layout_height="238dp"
         android:layout_marginTop="150dp"
         android:fontFamily="cursive"
         android:gravity="center"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingBottom="10dp"
-        android:text="Welcome To My New Project"
+        android:text="Who are you??"
         android:textAlignment="center"
         android:textColor="@color/welcome_color"
         android:textSize="48sp"
