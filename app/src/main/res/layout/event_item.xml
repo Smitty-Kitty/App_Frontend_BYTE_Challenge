@@ -6,7 +6,7 @@
     android:layout_height="wrap_content"
     android:background="#AE0808"
     android:elevation="5dp"
-    app:cardCornerRadius="20dp"
+    app:cardCornerRadius="15dp"
     android:layout_margin="8dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -20,9 +20,10 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
+            android:paddingEnd="5dp"
             android:text="Some Dark Event In the History"
             android:textColor="@color/white"
-            android:textSize="25sp"
+            android:textSize="20sp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -32,6 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
+            android:paddingEnd="5dp"
             android:text="A Year Ago"
             android:textColor="#BAB4B4"
             app:layout_constraintBottom_toBottomOf="parent"
